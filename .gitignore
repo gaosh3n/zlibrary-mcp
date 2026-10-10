@@ -98,6 +98,8 @@ logs/
 # permanently dirty and hid real uncommitted work.
 .claude/worktrees/
 
+.agent/
+
 # Test output files
 test_strikethrough_findings.json
 test_specific_pages_findings.json
